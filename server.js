@@ -21,10 +21,10 @@ app.listen(port, () => {
 // ************ CONNECT TO DATABASE          *************
 // *******************************************************
 var con = mysql.createConnection({
-  host: "intelector.com",
-  user: "jp",
-  password: "JP071174DE",
-  database: "intelec_xrp",
+  host: "",
+  user: "",
+  password: "",
+  database: "",
   port: "3306"
 });
 
