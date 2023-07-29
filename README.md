@@ -3,8 +3,6 @@ Core Functions include a set of essential functionalities that form the backbone
 
 Transaction Processing: The core functions handle the validation and processing of transactions on the XRP Ledger. Transactions can involve payments, account settings changes, or other operations supported by the ledger.
 
-Consensus Algorithm: The XRP Ledger uses a unique consensus algorithm called the "XRP Ledger Consensus Protocol" (XRP LCP) to reach agreement on the validity of transactions and ledger state. The core functions manage the consensus process.
-
 Ledger Management: The core functions are responsible for maintaining and updating the ledger's state, which includes information about the account balances, transaction history, and other ledger data.
 
 Cryptography and Security: The XRP Ledger utilizes cryptographic techniques for securing transactions and maintaining the integrity of the ledger. Core functions handle cryptographic operations like digital signatures and hash functions.
